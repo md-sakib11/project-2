@@ -547,6 +547,10 @@ footer .f1 .f2 i:hover{
         font-size: 20px;
         text-align: center;
     }
+    .logo img {
+        margin-left: 15px;
+        display: block;
+    }
 
 }
 @media (max-width:768px){

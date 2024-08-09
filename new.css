@@ -520,7 +520,7 @@ footer .f1 .f2 i:hover{
         height: auto;
     }
     header .logo{
-        margin-left: 35px;
+        margin-left:-35px;
         padding: 20px;
     }
     .checks{
